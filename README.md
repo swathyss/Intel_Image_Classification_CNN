@@ -7,15 +7,7 @@
 
 A deep learning project focused on building and evaluating a **Convolutional Neural Network (CNN)** for **multi-class image classification** using the **Intel Image Classification dataset**.
 
----
-
-## 🚀 Run Notebook in Google Colab
-
-Click the button below to open the notebook directly in Google Colab.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Laya123-star/intel-image-classification-cnn/blob/main/DL_Assignment_1_CNN.(1)ipynb)
-
----
+----
 
 # 📘 Project Overview
 
